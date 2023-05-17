@@ -1,5 +1,5 @@
 # EDA_on_Global-Terrorism
-Project Summary:
+
 The Global Terrorism Database (GTD) is a database on terrorist attacks around the world from 1970 through 2017 containing over 150,000 observations. Researchers at the National Consortium maintain the database for the Study of Terrorism and Responses to Terrorism (START), headquartered at the University of Maryland.
 
 This project entails an exploratory data analysis (EDA) conducted on the Global Terrorism Database, aiming to extract valuable insights and information concerning patterns and trends in global terrorism worldwide. The dataset utilized in this analysis encompasses details about terrorist groups, the most dangerous terrorist organizations, regions significantly affected by terrorist activities, as well as states, cities, and specific locations where terrorist incidents occur frequently, such as military installations, police facilities, government premises, and private properties. This comprehensive dataset sheds light on the global impact of terrorism and provides a yearly account of the lives lost due to such acts of terror spanning from 1970 to 2017.
